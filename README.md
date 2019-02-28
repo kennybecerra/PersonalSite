@@ -1,2 +1,1 @@
-# PersonalSite
-Peronsla Site showcasing skillset and projects
+# Personal Website 
